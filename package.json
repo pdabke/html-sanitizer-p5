@@ -1,0 +1,27 @@
+{
+  "name": "html-sanitizer-p5",
+  "version": "1.0.1",
+  "description": "A simple HTML sanitizer built on parse5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdabke/html-sanitizer-p5.git"
+  },
+  "keywords": [
+    "sanitize",
+    "html",
+    "parse5"
+  ],
+  "author": "Padmanabh Dabke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pdabke/html-sanitizer-p5/issues"
+  },
+  "homepage": "https://github.com/pdabke/html-sanitizer-p5#readme",
+  "dependencies": {
+    "parse5": "^5.1.0"
+  }
+}
